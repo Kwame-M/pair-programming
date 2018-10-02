@@ -1,5 +1,8 @@
+require_relative 'bike'
+
 class DockingStation
+  docking_station = DockingStation
   def release_bike
-    return "bike released"
+    Bike.new
   end
 end
