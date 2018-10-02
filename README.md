@@ -1,4 +1,4 @@
-# Borris Bikes Challenge
+# Boris Bikes Challenge
 
 Pair programming challenge - from Makers
 
