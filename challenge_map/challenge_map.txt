@@ -7,9 +7,17 @@ NameError: uninitialized constant DockingStation
         
 
 ## COURSE 4
+
 Error meaning: Name error
 Error file path: from /usr/local/rvm/rubies/ruby-2.4.0/bin/irb:11:in `<main>'
 Error on line: 1
 Link in ruby docs: https://ruby-doc.org/core-2.5.1/NameError.html
 Sovling: Define variable so it can be used.
+
+## COURSE 5
+
+## COURSE 6
+
+Rspec has 
+
 
