@@ -24,6 +24,6 @@ sudo apt-get install ruby-full
 
 ### People worked with
 
-Austengg
+[Austengg](http://github.com/Austengg)
 
-maxfrancis1
+[maxfrancis1](http://github.com/maxfrancis1)
